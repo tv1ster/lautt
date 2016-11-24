@@ -7,6 +7,5 @@
   "author": "tv1st",
   "license": "MIT",
   "dependencies": {
-    "angular": "1.5.8"
   }
 }
