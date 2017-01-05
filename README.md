@@ -1,1 +1,2 @@
 # lautt
+gulp build watch
